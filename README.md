@@ -28,5 +28,5 @@ Free cultural work, you are free to:
 La raó per la que utilitzo aquesta llicencia es perque la informació prove d'una llicencia de reconeixemnet i que permet compartir i aixi mantinc les mateixes condicions.
 
 S'adjunta:
-  - [Codi](https://github.com/haddock3/muntanyes_de_catalunya/blob/master/MuntanyesTest2.py) en python utilitzat per extreure l'informació
+  - [Codi](https://github.com/haddock3/muntanyes_de_catalunya/blob/master/muntanyes_de_catalunya.py) en python utilitzat per extreure l'informació
   - [Arxiu](https://github.com/haddock3/muntanyes_de_catalunya/blob/master/output.csv) amb el contingut en format csv.
