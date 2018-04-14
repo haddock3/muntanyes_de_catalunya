@@ -18,6 +18,8 @@ La propietat de l'informació, disponible al seguent [enllaç](https://ca.wikipe
 
 La inspiració d'aquest treball es la de ser un punt de partida per ajuntar amb altres informacions disponibles a fi de enriquir de manera senzilla la informacio disponibles sobre les muntanyes de Catalunya.
 
-Aquest treball es difon sota la llicencia [CC BY 2.0](https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Text_de_la_llic%C3%A8ncia_de_Creative_Commons_Reconeixement-Compartir_Igual_3.0_No_adaptada)
-
-
+Aquest treball es difon sota la llicencia [CC BY SA 4.0](https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Text_de_la_llic%C3%A8ncia_de_Creative_Commons_Reconeixement-Compartir_Igual_3.0_No_adaptada).
+Free cultural work, you are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+La raó per la que utilitzo aquesta llicencia es perque la informació prove d'una llicencia de reconeixemnet i que permet compartir i aixi mantinc les mateixes condicions.
